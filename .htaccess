@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI}  !\.(js|txt|html|htm|php|css|gif|jpg|jpeg|png|xml|pdf)$
+RewriteCond %{REQUEST_URI}  !^/(ext|admin)
+RewriteRule ^(.*) /index.php?qarray=$1 [QSA]
