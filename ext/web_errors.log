@@ -1,0 +1,64 @@
+[11-Apr-2006 12:49:26] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in C:\web\project\ext\ent.songs.php on line 126
+[11-Apr-2006 12:49:37] PHP Parse error:  syntax error, unexpected T_ELSE in C:\web\project\ext\ent.album.php on line 105
+[11-Apr-2006 12:49:56] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.artist.php on line 10
+[11-Apr-2006 12:50:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.comments.php on line 19
+[11-Apr-2006 12:50:52] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.contract_fees.php on line 21
+[11-Apr-2006 12:51:08] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.event.php on line 10
+[11-Apr-2006 12:51:23] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.eventQuestions.php on line 10
+[11-Apr-2006 12:51:48] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.fee.php on line 21
+[11-Apr-2006 12:52:04] PHP Parse error:  syntax error, unexpected T_PRIVATE, expecting ',' or ';' in C:\web\project\ext\ent.feedback.php on line 13
+[11-Apr-2006 12:52:35] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.feedbackField.php on line 10
+[11-Apr-2006 12:52:40] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.genre.php on line 10
+[11-Apr-2006 12:52:46] PHP Fatal error:  Cannot redeclare Keyword::setKeyword() in C:\web\project\ext\ent.keyword.php on line 71
+[11-Apr-2006 12:53:19] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.musicCategory.php on line 10
+[11-Apr-2006 12:53:23] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.news.php on line 10
+[11-Apr-2006 12:53:28] PHP Fatal error:  Non-abstract method Person::setUsername() must contain body in C:\web\project\ext\ent.person.php on line 434
+[11-Apr-2006 12:53:59] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.schedule_item.php on line 10
+[11-Apr-2006 12:54:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 21
+[11-Apr-2006 12:54:21] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in C:\web\project\ext\ent.songs.php on line 126
+[11-Apr-2006 12:55:01] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in C:\web\project\ext\ent.suggestions.php on line 146
+[11-Apr-2006 12:55:11] PHP Parse error:  syntax error, unexpected T_EXTENDS, expecting '{' in C:\web\project\ext\ent.customer.php on line 12
+[11-Apr-2006 12:55:27] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.template.php on line 10
+[11-Apr-2006 12:56:32] PHP Parse error:  syntax error, unexpected T_EXTENDS, expecting '{' in C:\web\project\ext\ent.customer.php on line 12
+[11-Apr-2006 12:56:34] PHP Parse error:  syntax error, unexpected T_EXTENDS, expecting '{' in C:\web\project\ext\ent.customer.php on line 12
+[11-Apr-2006 12:56:55] PHP Fatal error:  Cannot redeclare Person::getIsAdmin() in C:\web\project\ext\ent.person.php on line 480
+[11-Apr-2006 12:57:13] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.person.php on line 10
+[11-Apr-2006 12:57:21] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.songs.php on line 10
+[11-Apr-2006 12:57:24] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.album.php on line 10
+[11-Apr-2006 12:57:25] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.artist.php on line 10
+[11-Apr-2006 12:57:29] PHP Parse error:  syntax error, unexpected ';' in C:\web\project\ext\ent.comments.php on line 138
+[11-Apr-2006 12:58:16] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.contract_fees.php on line 10
+[11-Apr-2006 12:58:18] PHP Parse error:  syntax error, unexpected ';' in C:\web\project\ext\ent.comments.php on line 138
+[11-Apr-2006 12:58:20] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.event.php on line 10
+[11-Apr-2006 12:58:22] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.fee.php on line 10
+[11-Apr-2006 12:58:23] PHP Parse error:  syntax error, unexpected '}' in C:\web\project\ext\ent.feedback.php on line 233
+[11-Apr-2006 12:58:42] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.keyword.php on line 10
+[11-Apr-2006 12:58:46] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.person.php on line 10
+[11-Apr-2006 12:58:48] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 31
+[11-Apr-2006 12:59:19] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 31
+[11-Apr-2006 12:59:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 31
+[11-Apr-2006 12:59:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 31
+[11-Apr-2006 12:59:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in C:\web\project\ext\ent.song_request.php on line 31
+[11-Apr-2006 13:00:20] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.suggestions.php on line 10
+[11-Apr-2006 13:01:17] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.album.php on line 10
+[11-Apr-2006 13:01:19] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.artist.php on line 10
+[11-Apr-2006 13:01:21] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.comments.php on line 10
+[11-Apr-2006 13:01:22] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.contract_fees.php on line 10
+[11-Apr-2006 13:01:23] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.event.php on line 10
+[11-Apr-2006 13:01:24] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.eventQuestions.php on line 10
+[11-Apr-2006 13:01:25] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.fee.php on line 10
+[11-Apr-2006 13:01:26] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.feedback.php on line 9
+[11-Apr-2006 13:01:28] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.feedbackField.php on line 10
+[11-Apr-2006 13:01:29] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.genre.php on line 10
+[11-Apr-2006 13:01:30] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.keyword.php on line 10
+[11-Apr-2006 13:01:31] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.musicCategory.php on line 10
+[11-Apr-2006 13:01:32] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.news.php on line 10
+[11-Apr-2006 13:01:33] PHP Fatal error:  Cannot redeclare Person::getIsAdmin() in C:\web\project\ext\ent.person.php on line 480
+[11-Apr-2006 13:01:56] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.person.php on line 10
+[11-Apr-2006 13:02:07] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.schedule_item.php on line 10
+[11-Apr-2006 13:02:08] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.song_request.php on line 10
+[11-Apr-2006 13:02:09] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.songs.php on line 10
+[11-Apr-2006 13:02:10] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.suggestions.php on line 10
+[11-Apr-2006 13:02:10] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.template.php on line 10
+[11-Apr-2006 13:02:11] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.template.php on line 10
+[11-Apr-2006 14:55:54] PHP Fatal error:  Class 'Constants' not found in C:\web\project\ext\ent.news.php on line 10
