@@ -1,0 +1,76 @@
+/* CSS Document */
+
+body { background-color:whitesmoke ;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+a:link { font-family:Verdana, Arial, Helvetica, sans-serif;
+color:red;}
+a:hover { font-family:Verdana, Arial, Helvetica, sans-serif;
+color:black;}
+
+h1 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:36px}
+
+h2 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:30px}
+
+h3 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px}
+
+#leftcontent { position: absolute;
+background: whitesmoke;
+left:10px;
+top:160px;
+width:100px;
+border:0px;
+}
+
+#centercontent { top:160px;
+
+margin-left:120px;
+margin-right:119px;
+width:790px;
+border:1px;
+voice-family: "
+\"
+}
+
+\"
+"
+;
+voice-family: inherit;
+margin-left:101px;
+margin-right:121px;
+}
+
+html>
+body #centercontent { margin-left:120px;
+margin-right:800px;
+}
+
+#rightcontent { position: absolute;
+background: whitesmoke;
+right:10px;
+top:160px;
+width:120px;
+
+border:1px;
+}
+
+#banner {
+height:150px;
+width:800px;
+border-top:1;
+border-right:1;
+border-left:1;
+
+
+}
+
+html>
+body #banner { height:150px;
+}
+
+p,h1,h2,h3 { margin:0px 10px 10px 10px;
+}
